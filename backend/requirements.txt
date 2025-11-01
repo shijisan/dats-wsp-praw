@@ -1,0 +1,8 @@
+numpy
+praw
+pandas
+prophet
+fastapi
+uvicorn         
+python-dotenv
+pydantic
